@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8967e130-48f9-4e26-8f04-ed185e0af548" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/A1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/Drinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/Drinks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/Tea.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/Tea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Add1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Add1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ArrayMinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ArrayMinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ArrayResults.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ArrayResults.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Arrayalg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Arrayalg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Assignment5/TestJoinMethod1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Assignment5/TestJoinMethod1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Attacker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Attacker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ClassEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ClassEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ConstructorParentChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ConstructorParentChild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/CountThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/CountThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Counted.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Counted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ExamStringQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ExamStringQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Gen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Gen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/GenDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/GenDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/GenericArrayMinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/GenericArrayMinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/GenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/GenericClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/GenericClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/GenericClassDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/GenericMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/GenericMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Goalkeeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Goalkeeper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/IndexOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/IndexOf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Inflatable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Inflatable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/InheritanceProb1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/InheritanceProb1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/InterfaceAndAbstactClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/InterfaceAndAbstactClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/InterfaceEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/InterfaceEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Item1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Item1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Kickable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Kickable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/LambdaEx1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/LambdaEx1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/LambdaSumSqr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/LambdaSumSqr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/LastIndexOfEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/LastIndexOfEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/LastWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/LastWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/MyInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/MyThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/MyThread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/MyThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/MyThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/NazarShaheenA2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/NazarShaheenA2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/NazarShaheenA3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/NazarShaheenA3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/NazarShaheenA3_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/NazarShaheenA3_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/NazarShaheenA4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/NazarShaheenA4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/NazarShaheenA4_v2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/NazarShaheenA4_v2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/NazarShaheenA5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/NazarShaheenA5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/NazarShaheenA6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/NazarShaheenA6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/PairTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/PairTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ParentClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ParentClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ParentProb1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ParentProb1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Shapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Shapes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/SimpGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/SimpGen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/SleepThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/SleepThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/SoccerBall.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/SoccerBall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Sportsball.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Sportsball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/StaticSynchronization.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/StaticSynchronization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/StringBufferMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/StringBufferMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/StringMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/SubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/SubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/SubString1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/SubString1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/TestSleepMethod1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/TestSleepMethod1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Thread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ThreadJoinSleepYieldgetName.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ThreadJoinSleepYieldgetName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ThreadMethodsImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ThreadMethodsImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ThreadYieldExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ThreadYieldExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/TwoDShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/TwoDShape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/TwoGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/TwoGen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/ValueOfEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/ValueOfEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/div4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/div4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/mul3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/mul3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/nazarShaheenA1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/nazarShaheenA1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/p.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/p.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/pressure.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/pressure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/staticExClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/staticExClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/str5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/str5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/sub2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/sub2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/A1/com/company/yieldEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/com/company/yieldEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Drinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/Drinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/GitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Assignment5/TestJoinMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/Assignment5/TestJoinMethod1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Attacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/Attacker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ConstructorParentChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/ConstructorParentChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CountThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/CountThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Counted.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/Counted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ExamStringQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/ExamStringQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GenDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/GenDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GenericArrayMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/GenericArrayMinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GenericClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/GenericClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/GenericMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/GenericMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Goalkeeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/Goalkeeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/IndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/IndexOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/InheritanceProb1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/InheritanceProb1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/InterfaceAndAbstactClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/InterfaceAndAbstactClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LambdaEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/LambdaEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LambdaSumSqr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/LambdaSumSqr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LastIndexOfEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/LastIndexOfEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/LastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/LastWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NazarShaheenA2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/NazarShaheenA2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NazarShaheenA3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/NazarShaheenA3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NazarShaheenA3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/NazarShaheenA3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NazarShaheenA4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/NazarShaheenA4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NazarShaheenA4_v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/NazarShaheenA4_v2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NazarShaheenA5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/NazarShaheenA5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/NazarShaheenA6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/NazarShaheenA6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PairTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/PairTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SimpGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/SimpGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SoccerBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/SoccerBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StaticSynchronization.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/StaticSynchronization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StringBufferMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/StringBufferMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/SubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SubString1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/SubString1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/TestJoinMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/TestJoinMethod1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/TestSleepMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/TestSleepMethod1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ThreadJoinSleepYieldgetName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/ThreadJoinSleepYieldgetName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ThreadMethodsImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/ThreadMethodsImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ThreadYieldExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/ThreadYieldExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ValueOfEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/ValueOfEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/nazarShaheenA1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/nazarShaheenA1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/p.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/com/company/p.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="23csUclOohmWFR0CRgdhtY1IArV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TicTacToe">
+    <configuration name="InheritanceProb1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.InheritanceProb1" />
+      <module name="A1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaSumSqr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LambdaSumSqr" />
+      <module name="A1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadYieldExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ThreadYieldExample" />
+      <module name="A1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-11.0.13.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
+      <module name="A1" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path $USER_HOME$/Downloads/javafx-sdk-17.0.2/lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.p" />
+      <module name="A1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InheritanceProb1" />
+      <item itemvalue="Application.LambdaSumSqr" />
+      <item itemvalue="Application.ThreadYieldExample" />
+      <item itemvalue="Application.TicTacToe" />
+      <item itemvalue="Application.p" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.p" />
+        <item itemvalue="Application.ThreadYieldExample" />
+        <item itemvalue="Application.LambdaSumSqr" />
+        <item itemvalue="Application.InheritanceProb1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8967e130-48f9-4e26-8f04-ed185e0af548" name="Changes" comment="" />
+      <created>1642044731693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642044731693</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1647844795924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647844795924</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1647844804574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647844804574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1647844923253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647844923253</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" log-message="true" type="java-wildcard-method">
+          <properties class="NazarShaheenA4" method="*">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/A1$p.ic" NAME="p Coverage Results" MODIFIED="1646203475666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/A1$nazarShaheenA1.ic" NAME="nazarShaheenA1 Coverage Results" MODIFIED="1642230928303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/A1$TestJoinMethod1.ic" NAME="TestJoinMethod1 Coverage Results" MODIFIED="1645763393029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+</project>
