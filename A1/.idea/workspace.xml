@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8967e130-48f9-4e26-8f04-ed185e0af548" name="Changes" comment="commit" />
+    <list default="true" id="8967e130-48f9-4e26-8f04-ed185e0af548" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/JavaPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/JavaPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/programs/ExamStringQuestion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/programs/programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/programs/ExamStringQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/programs/NazarShaheenA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/programs/ThreadJoinSleepYieldgetName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/out/production/A1/com/company/Assignment5/TestJoinMethod1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/A1/com/company/programs/TestJoinMethod1.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +120,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -116,9 +132,9 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TicTacToe">
-    <configuration name="InheritanceProb1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.InheritanceProb1" />
+  <component name="RunManager" selected="Application.ThreadYieldExample">
+    <configuration name="ConstructorParentChild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ConstructorParentChild" />
       <module name="A1" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +146,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaSumSqr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.LambdaSumSqr" />
+    <configuration name="NazarShaheenA2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.NazarShaheenA2" />
+      <module name="A1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadMethodsImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ThreadMethodsImplementation" />
       <module name="A1" />
       <extension name="coverage">
         <pattern>
@@ -156,19 +185,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-11.0.13.jdk/Contents/Home" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
-      <module name="A1" />
-      <option name="PROGRAM_PARAMETERS" value="--module-path $USER_HOME$/Downloads/javafx-sdk-17.0.2/lib --add-modules=javafx.controls,javafx.fxml" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="p" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.p" />
+    <configuration name="nazarShaheenA1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.nazarShaheenA1" />
       <module name="A1" />
       <extension name="coverage">
         <pattern>
@@ -180,30 +198,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.InheritanceProb1" />
-      <item itemvalue="Application.LambdaSumSqr" />
+      <item itemvalue="Application.ConstructorParentChild" />
+      <item itemvalue="Application.nazarShaheenA1" />
+      <item itemvalue="Application.NazarShaheenA2" />
+      <item itemvalue="Application.ThreadMethodsImplementation" />
       <item itemvalue="Application.ThreadYieldExample" />
-      <item itemvalue="Application.TicTacToe" />
-      <item itemvalue="Application.p" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.p" />
         <item itemvalue="Application.ThreadYieldExample" />
-        <item itemvalue="Application.LambdaSumSqr" />
-        <item itemvalue="Application.InheritanceProb1" />
+        <item itemvalue="Application.ThreadMethodsImplementation" />
+        <item itemvalue="Application.nazarShaheenA1" />
+        <item itemvalue="Application.NazarShaheenA2" />
+        <item itemvalue="Application.ConstructorParentChild" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649293299251</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1649293845054</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649293845054</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
