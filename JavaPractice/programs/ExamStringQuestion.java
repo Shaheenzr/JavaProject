@@ -1,5 +1,3 @@
-package programs;
-
 public class ExamStringQuestion {
     public static void main(String[] args) {
         String str1 = "Java Programming is fun";
