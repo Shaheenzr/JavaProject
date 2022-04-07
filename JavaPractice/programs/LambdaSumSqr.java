@@ -15,6 +15,7 @@ public class LambdaSumSqr {
         System.out.println("The square of number 4 is: " + sq.sqr(4));
         Sum sum = (x, y) -> {
             return x + y;
+
         };
 
         System.out.println("The sum of 5 and 6 is: " + sum.sum(5, 6));
