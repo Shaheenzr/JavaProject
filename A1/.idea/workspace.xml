@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8967e130-48f9-4e26-8f04-ed185e0af548" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/JavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/JavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/programs/ExamStringQuestion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/out/production/JavaPractice/programs/programs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/programs/ExamStringQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/programs/NazarShaheenA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractice/programs/ThreadJoinSleepYieldgetName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/out/production/A1/com/company/Assignment5/TestJoinMethod1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/A1/com/company/programs/TestJoinMethod1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/programs/ThreadJoinSleepYieldgetName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/programs/ThreadJoinSleepYieldgetName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
